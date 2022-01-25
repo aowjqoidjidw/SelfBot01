@@ -4,14 +4,10 @@ return `${ucapanWaktu} kak ${pushname}
 Berikut adalah list harga untuk sewa botz
 
 *╭─▸*「 𝗟𝗜𝗦𝗧 𝗦𝗘𝗪𝗔 」
-*┴*
-*│▸* 1 hari = free
-*│▸* 2 hari = Rp.500         
-*│▸* 7 hari = Rp.1000          
-*│▸* 14 hari = Rp.1500         
-*│▸* 30 hari = Rp.2000       
-*│▸* 40 hari = Rp.2500                
-*│▸* Permanent = Rp.3000                    
+*┴*          
+*│▸* 14 hari = Rp.5k        
+*│▸* 30 hari = Rp.10k                   
+*│▸* Permanent = Rp.15k                    
 *┬*
 *╰────────────[*
 
@@ -29,6 +25,8 @@ Berikut adalah list harga untuk sewa botz
 Bot on 24 jam tapi kadang 
 juga mati klo lgi ada error 
 atau lgi perbaikan bug.
+
+untuk harga premium chat owner aja http://wa.me/6285159088173?text=Assalamualaikum
 
 Kalo mau sewa bisa chat
 owner Bot, khusus untuk free 
