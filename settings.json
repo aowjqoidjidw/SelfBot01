@@ -25,7 +25,7 @@
      "autoread" : true,
      "katalogMenu": false,
      "troliMenu": false,
-     "lokasiMenu": true,
+     "lokasiMenu": false,
      "documentMenu": true,
      "autoblockcmd" : false,
      "autoWelcome": true,
